@@ -345,7 +345,7 @@ int find_index_of_discarted_query(CountNode* head,QueryNode** query_table)
         }
     }
 }
-/* IMPORTANT COMMENT : INPUT ILK SATIR = 10 İÇİN 1 ALIYOR */
+
 int main()
 {
     QueryNode* query_table[MAX_SIZE],*print_pointer;
